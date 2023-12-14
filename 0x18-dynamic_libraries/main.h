@@ -1,5 +1,5 @@
-#ifndef _MAIN_H_
-#define _MAIN_H_
+#ifndef _HOLBERTON_H_
+#define _HOLBERTNO_H_
 
 #include <stdio.h>
 #include <stdlib.h>
@@ -25,4 +25,5 @@ unsigned int _strspn(char *s, char *accept);
 char *_strpbrk(char *s, char *accept);
 char *_strstr(char *haystack, char *needle);
 
-#endif /* main.h */
+#endif /* holberton.h */
+
